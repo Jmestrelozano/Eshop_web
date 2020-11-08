@@ -1,0 +1,57 @@
+// import the library
+import { library } from "@fortawesome/fontawesome-svg-core";
+import {
+  faAddressCard,
+  faBars,
+  faChevronDown,
+  faCog,
+  faDesktop,
+  faEnvelope,
+  faEnvelopeSquare,
+  faExclamationCircle,
+  faImage,
+  faInfoCircle,
+  faLanguage,
+  faLock,
+  faPowerOff,
+  faUserCircle,
+  faClock,
+  faCar,
+  faCamera,
+  faHeadphones,
+  faGamepad,
+  faFutbol,
+  faBookOpen,
+  faCouch,
+  faTshirt,
+ faStore
+  
+} from "@fortawesome/free-solid-svg-icons";
+import { faHeart } from "@fortawesome/free-regular-svg-icons";
+library.add(
+  faAddressCard,
+  faBars,
+  faChevronDown,
+  faCog,
+  faDesktop,
+  faEnvelope,
+  faEnvelopeSquare,
+  faExclamationCircle,
+  faImage,
+  faInfoCircle,
+  faLanguage,
+  faLock,
+  faPowerOff,
+  faUserCircle,
+  faClock,
+  faHeart,
+  faCar,
+  faCamera,
+  faHeadphones,
+  faGamepad,
+  faFutbol,
+  faBookOpen,
+faCouch,
+faTshirt,
+faStore
+);
